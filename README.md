@@ -7,7 +7,6 @@
   <ul>
     <li> Based in Egypt. </li>
     <li> Senior BIS student. </li>
-    <li> Student at <mark> ALX SE Programme </mark> cohort 18. </li>
     <li> Frontend developer using React Js. </li>
   </ul>
 </section>
