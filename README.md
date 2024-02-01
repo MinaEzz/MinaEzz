@@ -1,38 +1,38 @@
-<header>
-<h1> Hi there 👋 My name is Mina Ezzat </h1>
-</header>
+<!-- Header -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="250" height="150" alt="Coding With Me">
+</p>
+<h1 align="center">Hi there, I'm Mina Ezzat! 👋</h1>
 
-<section>
-  <h3> About me: </h3>
-  <ul>
-    <li> Based in Egypt. </li>
-    <li> Senior BIS student. </li>
-    <li> Frontend developer using React Js. </li>
-  </ul>
-</section>
+<!-- About Me -->
+<h3 align="center">About Me</h3>
+<p align="center">I'm a passionate Frontend React JS Developer with a strong foundation in web development technologies. My goal is to create seamless and user-friendly experiences through my coding skills.</p>
 
-<hr />
+<!-- Skills -->
+<h3 align="center">Skills</h3>
+<div align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="50" height="50">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="50" height="50">
+  <img src="https://banner2.cleanpng.com/20180328/utq/kisspng-bootstrap-logo-computer-software-web-application-p-b-5abb6c2a90f851.2203635715222323625938.jpg" alt="Bootstrap" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="50" height="50">
+  <img src="https://dev.welaika.com/images/javascript-1a855dbd.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://icon-library.com/images/jquery-icon/jquery-icon-8.jpg" alt="jQuery" width="50" height="50">
+  <img src="https://obsessivecoder.gallerycdn.vsassets.io/extensions/obsessivecoder/react-component-explorer/0.0.4/1596324109574/Microsoft.VisualStudio.Services.Icons.Default" alt="React JS" width="50" height="50">
+</div>
 
-<section>
-   <h3>⚡ Frontend Developer </h3>
-   <img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" width="102"/>
-   <img src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" width="90" />
-      <img src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" width="145"/>
-     <img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" width="146"/>
-     <img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" width="100"/>
-</section>
+<!-- Get in Touch -->
+<h3 align="center">Get in Touch</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mina-ezzat-16a541218" style="text-decoration:none; ">
+    <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="linkedin" width="50" height="50">
+  </a>
+  <a href="mailto:minaezzat98@gmail.com" style="text-decoration:none; ">
+    <img src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="Email" width="50" height="50">
+  </a>
+</div>
 
-<!--
-**MinaEzz/MinaEzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Let's Collaborate -->
+<h3 align="center">Let's Collaborate!</h3>
+<p align="center">I'm always open to new opportunities and collaborations. If you have a project or idea you'd like to discuss, feel free to reach out.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Happy coding! 🚀</p>
