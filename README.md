@@ -6,7 +6,10 @@
 
 <!-- About Me -->
 <h3 align="center">About Me</h3>
-<p align="center">I'm a passionate Frontend React JS Developer with a strong foundation in web development technologies. My goal is to create seamless and user-friendly experiences through my coding skills.</p>
+<p align="center">I'm a passionate Frontend React JS Developer with a strong foundation in web development technologies. 
+  <br /> 
+  My goal is to create seamless and user-friendly experiences through my coding skills.
+</p>
 
 <!-- Skills -->
 <h3 align="center">Skills</h3>
